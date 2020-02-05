@@ -14,3 +14,5 @@ C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2
 C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.RazorTargetAssemblyInfo.cache
 C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.dll
 C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.pdb
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\bin\Debug\netcoreapp2.2\Apiv1.xml
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.xml

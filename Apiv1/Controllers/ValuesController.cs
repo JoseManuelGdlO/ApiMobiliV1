@@ -17,11 +17,16 @@ namespace Apiv1.Controllers
             return new string[] { "value1", "value2" };
         }
 
-        // GET api/values/5
+        /// <summary>
+        /// get By ID
+        /// </summary>
+        /// 
+        /// <param name="id">ID User</param>
+        /// <returns></returns>
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "value";
+            return "Hola muando";
         }
 
         // POST api/values
