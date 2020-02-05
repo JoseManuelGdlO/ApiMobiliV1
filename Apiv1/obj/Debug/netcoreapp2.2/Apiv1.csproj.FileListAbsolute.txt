@@ -1,0 +1,16 @@
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\bin\Debug\netcoreapp2.2\Apiv1.deps.json
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\bin\Debug\netcoreapp2.2\Apiv1.runtimeconfig.json
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\bin\Debug\netcoreapp2.2\Apiv1.runtimeconfig.dev.json
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\bin\Debug\netcoreapp2.2\Apiv1.dll
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\bin\Debug\netcoreapp2.2\Apiv1.pdb
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.csprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.RazorAssemblyInfo.cache
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.RazorAssemblyInfo.cs
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.RazorTargetAssemblyInfo.cache
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.dll
+C:\Users\Manuel\source\repos\net core practice\Apiv1\Apiv1\obj\Debug\netcoreapp2.2\Apiv1.pdb
